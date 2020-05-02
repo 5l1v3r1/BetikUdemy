@@ -1,4 +1,5 @@
 # KekikUdemy
+<p>Bir <a style="color:green" href="https://t.me/BetikSonu" target="_blank">@BetikSonu</a> projesi .<br><br>
 Bu araç aşağıdaki adreslerden udemy kuponu çekmek için tasarlanmıştır.
  - https://www.discudemy.com/Turkish/
  - https://www.real.discount/new/
